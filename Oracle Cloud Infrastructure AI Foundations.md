@@ -59,3 +59,24 @@
 - Use “Ask Your Instructor” form for help.
 - Join community space for discussions.
 - Provide feedback and rate the course.
+
+---
+## OCI 2024 AI Foundations – Foundations Module
+
+### 👋 Instructor Introduction
+**Name:** Nick  
+**Role:** Senior Cloud Engineer at Oracle
+
+### 🎯 Module Objectives
+By the end of this module, you will be able to:
+- Explain core AI concepts.
+- Describe common AI domains and tasks.
+- Distinguish between:
+  - Artificial Intelligence (AI)
+  - Machine Learning (ML)
+  - Deep Learning (DL)
+
+### 🧭 Overview
+This module sets the stage for understanding foundational AI concepts and how they relate to each other. It introduces the learner to the broader AI landscape and prepares them for deeper exploration in upcoming modules.
+
+---
