@@ -495,4 +495,105 @@
 - Timely and accurate reporting
 - Reduced time to close books
 
+---    
+
+## Oracle Modern Best Practice (OMBP)
+
+### What is OMBP?
+
+- A set of **reimagined, industry-standard business processes** powered by Oracle Fusion Applications.
+- Designed to simplify workflows, improve agility, and leverage emerging technologies like **AI**, **ML**, and **analytics**.
+- Derived from analysis of **10,000+ Oracle delivery projects**:
+  - Successful processes optimized by experts.
+  - Published for public use at no cost.
+
+---
+
+## Key Benefits of OMBP
+
+- **Public**: Freely available to all Oracle customers.
+- **Dynamic**: Regularly updated to reflect evolving technologies.
+- **Trusted**: Validated by Oracle experts before release.
+- **Versatile**: Supports multiple functional areas and industries.
+- **Scalable**: Enables seamless integration and operational agility.
+
+---
+
+## Technologies Behind OMBP
+
+- **Analytics**:
+  - Real-time dashboards with key metrics.
+  - Example: A CFO can monitor financial KPIs like cash flow or overdue invoices.
+- **AI & ML**:
+  - Smart assistants, recommendation engines, predictive analytics.
+  - Example: ML learns from invoice corrections to improve future recognition.
+
+---
+
+## OMBP Implementation Strategy
+
+1. **Examine existing processes** and dashboards.
+2. **Review against key differentiators** (AI, analytics, automation).
+3. **Map strategies** for seamless integration.
+4. **Structure implementation scope** with benchmarks and goals.
+
+---
+
+## Example: Traditional Requisition Process
+
+- **Scenario**: A CFO notices production delays due to late supplier deliveries.
+- **Steps**:
+  1. Production team checks stock and raises requisition.
+  2. Requisition reviewed and approved by buyers.
+  3. Goods received and verified.
+  4. Invoice matched and payment authorized.
+- **Challenge**: Manual reviews and approvals cause delays.
+
+---
+
+## Example: OMBP Requisition-to-Payment Process
+
+- **Modernized with sensors, AI, and mobile workflows**:
+  1. **Create Requisition**:
+     - Triggered by storage rack sensors detecting low stock.
+     - Supervisor receives alert with financial impact and customer satisfaction data.
+  2. **Approve Requisition**:
+     - Supervisor approves via smartphone.
+     - Updated dashboard reflects stock status.
+  3. **Create & Approve Purchase Order**:
+     - Buyer approves on tablet during commute.
+     - PO sent electronically to supplier.
+  4. **Receive Goods**:
+     - Delivered and placed on rack.
+     - Sensor confirms stock level.
+  5. **Manage Invoices**:
+     - ML recognizes scanned invoices.
+     - Exceptions handled via mobile.
+  6. **Process Payments**:
+     - Optimized timing and discounts.
+     - Automated pay runs or off-cycle payments.
+
+- **Result**: Faster processing, reduced manual intervention, improved customer experience.
+
+---
+
+## OMBP Diagram Elements
+
+- **Top**: Name and release version.
+- **Middle**: Process flow with step names and descriptions.
+- **Bottom**: Product mix and key metrics.
+
+---
+
+## Summary
+
+- OMBP helps organizations **navigate change** and stay competitive.
+- Driven by **key differentiators**:
+  - AI, ML, analytics, automation, mobile access.
+- Designed for **cross-functional and industry-specific use**.
+- Includes:
+  - Step-by-step process flows
+  - Required technologies/platforms
+  - Key metrics for performance tracking
+
 ---
