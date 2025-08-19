@@ -413,4 +413,86 @@
 
 ---
 
+## Oracle Fusion Cloud ERP – Financials Demonstration
 
+### Overview
+
+- Oracle Fusion Cloud Financials supports **agile finance management** with:
+  - Touchless operations
+  - AI and machine learning
+  - Intelligent automation
+  - Embedded analytics
+- Enables efficient transaction processing and improved decision-making.
+
+---
+
+## Analytics & Infolets
+
+- **Infolets**: Interactive widgets showing key data on the home page.
+  - Examples: Close Calendar, Open Subledgers, AR Reconciliation, Allocations
+- **Close Monitor**:
+  - Displays period close status across ledgers in a hierarchical ledger set.
+  - Shows manager contact info and summarized income statements.
+  - Aggregates financial data at each consolidation node.
+
+---
+
+## Payables & Invoices Work Area
+
+- **Infotiles**: Real-time alerts embedded in work areas.
+  - Enable proactive monitoring and immediate action.
+  - Examples: Approve invoice, release hold
+- **Intelligent Document Recognition (IDR)**:
+  - Extracts invoice data from emails.
+  - Automates invoice creation and processing.
+  - Learns from corrections to improve future recognition.
+- AI features:
+  - Intelligent account code defaulting
+  - Dynamic discounting
+
+---
+
+## Digital Assistant
+
+- Assists with common tasks like expense creation.
+- Supports:
+  - Text, voice, and image input
+  - Automatic submission for approval
+- Example: Upload receipt → identify expense type → create and submit expense
+
+---
+
+## Spreadsheet Integration
+
+- Manual data entry supported via spreadsheets for:
+  - Expenses
+  - Journals (GL)
+  - Asset additions
+  - Payables invoices
+- Rapid implementation spreadsheets available for configuration setup.
+
+---
+
+## Financial Reporting Platform
+
+- **GL Balances Cube (Essbase)**:
+  - Multi-dimensional database for financial balances.
+- **Financial Reporting Web Studio**:
+  - Creates boardroom-ready reports.
+- **Financial Reporting Center**:
+  - Mobile/tablet optimized
+  - Example: Supremo US Income Statement
+    - Drill-down from summary to child accounts
+    - View transaction-level details
+    - Source traceability (e.g., spreadsheet)
+
+---
+
+## Business Impact
+
+- Streamlined financial operations
+- Automated transactions
+- Timely and accurate reporting
+- Reduced time to close books
+
+---
