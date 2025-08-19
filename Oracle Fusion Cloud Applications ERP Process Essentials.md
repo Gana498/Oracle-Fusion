@@ -597,3 +597,151 @@
   - Key metrics for performance tracking
 
 ---
+
+## Oracle Fusion Cloud Financials – Integration & Architecture
+
+### Overview
+
+- Oracle Fusion Cloud Financials is a **comprehensive, integrated solution** that:
+  - Automates financial processes
+  - Enforces controls
+  - Provides real-time insights
+- Designed to ensure **efficiency, compliance, and informed decision-making**.
+
+---
+
+## Central Role of General Ledger
+
+- **General Ledger (GL)** acts as the **hub** of the financial system.
+- Other modules (e.g., AR, AP, Revenue Management) are **spokes** feeding data into GL.
+- Data flows into GL via **Subledger Accounting** using the **Create Accounting** program.
+
+**Example**:  
+When a customer makes a payment, AR records the transaction, and Subledger Accounting posts it to GL for financial reporting.
+
+---
+
+## Integration Points by Module
+
+### 1. **Accounts Receivable (AR)**
+
+- Integrates with:
+  - **Advanced Collections**: Manage delinquent accounts
+  - **Revenue Management**: Revenue recognition
+  - **Tax Engine**: Tax calculations
+  - **Accounts Payable**: Customer refunds
+  - **Lease Accounting**: Lease revenue
+  - **Cash Management**: Reconcile receipts
+  - **Joint Venture Management**: Partner invoicing
+- Transfers accounting data to GL via Subledger Accounting.
+
+**Example**:  
+A customer pays an invoice → AR records it → Cash Management reconciles it → GL reflects the transaction.
+
+---
+
+### 2. **Revenue Management**
+
+- Integrates with:
+  - **AR**: Invoice and revenue tracking
+  - **Tax Engine**: Tax compliance
+- Transfers revenue data to GL.
+
+**Example**:  
+Subscription revenue is recognized monthly → Revenue Management applies rules → GL updates financial statements.
+
+---
+
+### 3. **Accounts Payable (AP)**
+
+- Integrates with:
+  - **AR**: Refunds
+  - **Expenses**: Employee reimbursements
+  - **Tax Engine**: Tax on payables
+  - **Cash Management**: Payment reconciliation
+  - **Fixed Assets**: Asset purchases
+  - **Lease Accounting**: Lease payments
+  - **Joint Venture Management**: Partner payments
+- Transfers data to GL via Subledger Accounting.
+
+**Example**:  
+An invoice for a laptop is processed → AP records payment → Fixed Assets adds the item → GL reflects asset acquisition.
+
+---
+
+### 4. **Expenses**
+
+- Integrates with:
+  - **AP**: Reimbursements
+  - **Tax Engine**: Tax compliance
+
+**Example**:  
+An employee submits a travel expense → Expenses validates it → AP reimburses → GL records the transaction.
+
+---
+
+### 5. **Fixed Assets**
+
+- Integrates with:
+  - **AP**: Captures asset purchases
+- Transfers asset data to GL.
+
+**Example**:  
+A new machine is purchased → AP processes payment → Fixed Assets tracks depreciation → GL reflects asset value.
+
+---
+
+### 6. **Lease Accounting**
+
+- Integrates with:
+  - **AP & AR**: Lease payments and revenue
+- Transfers lease data to GL.
+
+**Example**:  
+Lease payment is made → AP processes it → Lease Accounting updates terms → GL reflects liability and expense.
+
+---
+
+### 7. **Cash Management**
+
+- Integrates with:
+  - **AP & AR**: Reconciliation of payments and receipts
+- Transfers miscellaneous cash transactions to GL.
+
+**Example**:  
+Bank statement shows a deposit → Cash Management reconciles → GL updates cash balance.
+
+---
+
+### 8. **Joint Venture Management**
+
+- Integrates with:
+  - **AP & AR**: Partner invoicing and payments
+  - **GL**: Internal transfer journal entries
+
+**Example**:  
+Revenue from a joint venture is shared → JV Management allocates → GL records each partner’s share.
+
+---
+
+### 9. **Accounting Hub**
+
+- Integrates with GL via its accounting engine.
+- Standardizes financial data from external systems.
+
+**Example**:  
+Data from a legacy system is transformed → Accounting Hub posts to GL → Ensures consistency and compliance.
+
+---
+
+## Summary
+
+- Oracle Fusion Cloud Financials is built for **seamless integration**.
+- Modules share data in real time, ensuring:
+  - Accuracy
+  - Compliance
+  - Operational efficiency
+- The architecture provides a **single source of truth** for financial reporting.
+
+---
+
