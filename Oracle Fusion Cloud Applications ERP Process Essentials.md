@@ -745,3 +745,113 @@ Data from a legacy system is transformed → Accounting Hub posts to GL → Ensu
 
 ---
 
+## Oracle Modern Best Practice (OMBP) – Fusion Financials Overview
+
+Oracle Modern Best Practice (OMBP) for Fusion Financials is a set of **predefined, cloud-based best practices** designed to:
+
+- Optimize financial processes  
+- Improve operational efficiency  
+- Ensure compliance  
+- Leverage automation, analytics, and AI  
+
+---
+
+## Key Financial OMBPs and Their Modules
+
+### 1. **Expense Report to Reimbursement**  
+**Module**: Expenses  
+- Automates expense submission, approval, and reimbursement.  
+- **Example**: An employee submits a travel expense via mobile; the system validates policy compliance and reimburses automatically.
+
+---
+
+### 2. **Supplier Invoice to Payment**  
+**Module**: Accounts Payable  
+- Manages invoice receipt, approval, and payment scheduling.  
+- **Example**: A supplier invoice is scanned and matched with a PO; payment is scheduled based on terms and processed electronically.
+
+---
+
+### 3. **Asset Acquisition to Retirement**  
+**Module**: Fixed Assets  
+- Covers asset lifecycle: acquisition, depreciation, revaluation, and retirement.  
+- **Example**: A company purchases machinery; depreciation is calculated monthly until retirement.
+
+---
+
+### 4. **Customer Invoice to Receipt**  
+**Module**: Accounts Receivable  
+- Streamlines invoicing and payment collection.  
+- **Example**: A customer receives an invoice via email and pays online; the system reconciles the payment automatically.
+
+---
+
+### 5. **Customer Statement to Collections**  
+**Module**: Advanced Collections  
+- Manages overdue accounts with reminders and dunning letters.  
+- **Example**: A customer with overdue payments receives automated reminders and a dunning letter based on scoring models.
+
+---
+
+### 6. **Customer Contract to Revenue**  
+**Module**: Revenue Management  
+- Automates contract creation, performance tracking, and revenue recognition.  
+- **Example**: A subscription contract triggers monthly revenue recognition based on milestones.
+
+---
+
+### 7. **Bank Transaction to Cash Position**  
+**Module**: Cash Management  
+- Reconciles bank transactions and provides real-time cash visibility.  
+- **Example**: Daily bank feeds are reconciled with internal records to update cash position dashboards.
+
+---
+
+### 8. **Period Close to Financial Report**  
+**Module**: General Ledger  
+- Automates financial close, reconciliation, and reporting.  
+- **Example**: Subledgers are closed, consolidated, and financial statements are generated with embedded analytics.
+
+---
+
+### 9. **Lessee Lease Abstraction to Termination**  
+**Module**: Lease Accounting  
+- Manages lease lifecycle for lessees, ensuring compliance.  
+- **Example**: A lease is activated, modified mid-term, and terminated with full audit trail and compliance reporting.
+
+---
+
+### 10. **Lessor Lease Abstract to Termination**  
+**Module**: Lease Accounting  
+- Manages lease lifecycle for lessors, ensuring accurate billing and compliance.  
+- **Example**: A property lease is billed monthly; changes are tracked and reported for compliance.
+
+---
+
+### 11. **Joint Venture Accounting to Settlement**  
+**Module**: Joint Venture Management  
+- Automates cost allocation, partner billing, and settlement.  
+- **Example**: A joint venture project shares costs among partners and generates settlement reports monthly.
+
+---
+
+## How OMBP Enhances Financial Operations
+
+- **Automation**: Reduces manual effort (e.g., invoice matching, expense validation).
+- **Analytics**: Embedded dashboards provide real-time insights.
+- **AI**: Predictive models and smart assistants improve decision-making.
+- **Compliance**: Ensures adherence to accounting standards and policies.
+- **Scalability**: Supports growth and adapts to changing business needs.
+
+---
+
+## Summary
+
+Oracle Fusion Financials OMBPs:
+
+- Align with core financial functions and modules.
+- Enable efficient, compliant, and scalable operations.
+- Provide actionable insights to optimize cash flow, profitability, and reporting.
+- Empower organizations to achieve **financial excellence** through **automation, analytics, and AI**.
+
+---
