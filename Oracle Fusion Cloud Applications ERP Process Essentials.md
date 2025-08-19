@@ -265,3 +265,90 @@
 - Future potential: Manage entire business processes autonomously.
 
 ---
+
+## Oracle Fusion Cloud Applications Overview
+
+### General Overview
+
+- Oracle Cloud Applications is a broad suite covering key business functions:
+  - Human Capital Management (HCM)
+  - Enterprise Resource Planning (ERP)
+  - Supply Chain Management (SCM)
+  - Customer Experience (CX)
+- All applications are built on **Oracle Cloud Infrastructure (OCI)**, designed for mission-critical workloads.
+
+---
+
+## Functional Pillars and Capabilities
+
+### Human Capital Management (HCM)
+
+- Connects HR processes: talent, workforce, payroll.
+- Enhances employee experience across:
+  - Onboarding
+  - Performance management
+  - Benefits & compensation
+  - Job training
+  - Workplace environment
+- Benefits:
+  - Increased engagement & productivity
+  - Reduced attrition
+  - Improved culture & transparency
+- **Oracle Me**:
+  - Integrates communications, workflows, career development, feedback, and support.
+
+### Enterprise Resource Planning (ERP)
+
+- Automates financial management processes.
+- Provides visibility into financial health.
+- Manages:
+  - Accounting
+  - Procurement
+  - Project management
+  - Risk & compliance
+- Benefits:
+  - Faster financial processes
+  - Easier integration of acquisitions
+  - Improved collaboration & forecasting
+
+### Supply Chain Management (SCM)
+
+- Manages flow of goods, data, and finances.
+- Covers full lifecycle: raw materials to delivery.
+- Enables:
+  - Innovation
+  - Execution
+  - Scalability
+- Benefits:
+  - Faster decision-making
+  - Improved efficiency
+  - Enhanced profit performance
+  - Better working capital management
+- **Fusion Data Intelligence**:
+  - Embedded ML and third-party data
+  - Detects and resolves issues
+  - Supports ESG data management
+
+### Customer Experience (CX)
+
+- Covers customer journey: marketing, sales, service, data.
+- Enables:
+  - Global customer acquisition
+  - Rapid product/service deployment
+- Benefits:
+  - Deeper customer insights
+  - Transparency across front and back office
+
+---
+
+## Unified Platform Benefits
+
+- **Single source of truth** across all applications.
+- Enables:
+  - Quick response to disruptions
+  - Streamlined end-to-end processes
+  - Real-time analytics
+  - Faster, data-driven decisions
+
+---
+
