@@ -46,11 +46,31 @@
   - HCM (Human Capital Management)
   - CX (Customer Experience)
 - Features:
-  - Consistent processes
-  - Single source of truth
-  - Deep integrations
-  - Common data model
-  - Unified user interface
+
+ - 1. Consistent Processes
+Oracle Fusion delivers standardized global business processes such as Procure-to-Pay, Order-to-Cash, and Hire-to-Retire.  
+Workflows, approvals, and compliance rules are consistent across regions, with flexibility for localization.
+
+ - 2. Single Source of Truth
+All master and transactional data is maintained in one central repository.  
+This avoids duplication, ensures accurate reporting, and gives reliable insights across finance, HR, supply chain, and CX.
+
+ - 3. Deep Integrations
+Modules such as ERP, HCM, SCM, and CX are natively integrated.  
+Data flows automatically between functions (e.g., a new hire in HCM is instantly available for expense processing in ERP).  
+External systems can connect through APIs, OIC, or file-based imports.
+
+ - 4. Common Data Model
+A unified data structure is used across all applications.  
+Entities like Person, Supplier, and Customer are shared, making cross-functional analysis simple and reliable.  
+The common model also supports advanced analytics and AI.
+
+ - 5. Unified User Interface
+Oracle Fusion provides a single, modern interface (Redwood UX) across all applications.  
+Users experience consistent navigation, dashboards, and notifications, with options for personalization.  
+Role-based security and single sign-on ensure a seamless user journey.
+
+
 
 ## Technology Stack Ownership
 
