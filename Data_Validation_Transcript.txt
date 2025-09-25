@@ -1,0 +1,68 @@
+
+Oracle Fusion Data Validation Tool – Afternoon Session Transcript
+---------------------------------------------------------------
+
+Good Afternoon Everyone,
+Let me start the session on the Oracle Fusion Data Validation Tool. 
+This tool is designed to help business users and functional consultants validate their data before uploading it into Oracle Fusion Cloud ERP.
+
+Let’s walk through how this tool works and how you can use it effectively.
+
+Overview:
+---------
+This Excel-based tool performs automatic checks on your data to ensure it is clean, complete, and matches the master data in your Fusion instance. It highlights missing values, duplicate entries, incorrect date formats, and mismatches with Fusion master data.
+
+Example of AR Invoices File:
+----------------------------
+Here’s a typical example of what we validate in an AR Invoices file:
+
+- P  - TRANSACTION_NUMBER (UNIQUE)
+- AB - Customer Account Number (NOT NULL)
+- AM - DATE (Format should be valid.)
+- AB - Customer Account Number (Values should be in Instance.)
+
+Using the Configuration Sheet: “Validations”
+--------------------------------------------
+The tool is controlled using a sheet named “Validations”. You can configure what checks to run by updating the following cells:
+
+Cell    Purpose
+----    -------
+A8      Enable blank field check (Y or N)
+D8      Columns to check for blanks (e.g., A,B,C)
+A9      Enable duplicate check
+D9      Columns to check for duplicates
+A10     Enable date format check
+C10     Expected date format (e.g., dd-mm-yyyy)
+D10     Columns to check for date format
+A11     Enable Item Number comparison
+A13     Enable Account Number comparison
+D13     Columns to check for Account Numbers
+
+Getting Data from Oracle Fusion Instance:
+-----------------------------------------
+To compare your data with Fusion master data, click the “Get Instance Data” button.
+
+A form will appear asking for:
+- Fusion Instance URL
+- Username
+- Password
+
+Based on your configuration:
+- If A11 is set to Y, the tool will fetch Item Numbers from Fusion.
+- If A13 is set to Y, the tool will fetch Account Numbers from Fusion.
+
+Running the Validation:
+-----------------------
+Once your configuration is ready and instance data is fetched, click the “Start Validations” button.
+
+The tool will:
+- Highlight blank cells in red
+- Highlight duplicate values in yellow
+- Highlight incorrect date formats in red or pink
+- Highlight missing Item Numbers and Account Numbers in light red
+
+Conclusion:
+-----------
+This tool helps ensure your data is accurate and ready for upload, saving time and reducing errors. No technical knowledge is needed—just follow the steps and review the highlighted cells.
+
+Thank you for attending this session. Jai Hind!
